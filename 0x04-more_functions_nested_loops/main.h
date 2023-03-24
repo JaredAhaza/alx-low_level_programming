@@ -45,4 +45,10 @@ int _putchar(char c);
 
 void print_most_numbers(void);
 
+/**
+ * more_numbers - print 0 to 14 ten times
+ */
+
+void more_numbers(void);
+
 #endif
