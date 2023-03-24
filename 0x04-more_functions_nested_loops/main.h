@@ -26,4 +26,17 @@ int _isdigit(int c);
 
 int mul(int a, int b);
 
+/**
+ * print_numbers - print 0 to 9
+ */
+
+void print_numbers(void);
+
+/**
+ * _putchar - writes the character c to std
+ * @c: parameter to compare
+ * Return: 1 or 0
+ */
+int _putchar(char c);
+
 #endif
